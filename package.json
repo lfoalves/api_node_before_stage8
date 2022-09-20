@@ -1,0 +1,19 @@
+{
+  "name": "api-autodesafio-explorer-stage-7",
+  "version": "1.0.0",
+  "description": "Api desenvovida para estudo antes de ir para o Stage 8",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ."
+  },
+  "keywords": [
+    "Api",
+    "Backend"
+  ],
+  "author": "Luiz Fernando de Oliveira Alves",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

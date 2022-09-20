@@ -1,0 +1,11 @@
+
+GET https://localhost:3000
+
+###
+
+POST https://localhost:3000 HTTP/1.1
+content-type: application/json
+
+{
+  "nome": "LUIZ FERNANDO"
+}
